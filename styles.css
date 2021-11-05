@@ -630,7 +630,7 @@ a.btn:active,
 }
 
 .skills-box .nodejs {
-  width: 80%;
+  width: 85%;
 }
 
 .skills-box .css {
@@ -641,7 +641,7 @@ a.btn:active,
   width: 85%;
 }
 
-.skills-box .mongodb {
+.skills-box .react.js {
   width: 100%;
 }
 
